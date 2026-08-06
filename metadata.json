@@ -1,0 +1,6 @@
+{
+  "name": "የኢትዮጵያ መታወቂያ - Ethio ID App",
+  "description": "የቀበሌ መታወቂያ ዲጂታል አገልግሎት እና ህትመት ስርዓት (Kebele ID Card Auto-Generation & Order Management System)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
